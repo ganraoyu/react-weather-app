@@ -1,1 +1,26 @@
-rafc
+.WeatherDetails{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding:85px 50px;
+
+}
+
+.WeatherDetails img {
+    width: 70px;
+    height: 70px;
+}
+
+.div1 p{
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0;
+    color: white;
+    padding:0 10px;
+}
