@@ -1,0 +1,13 @@
+.App{
+    width: 450px;
+    height: 650px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background: rgb(89,171,149);
+    background: -moz-linear-gradient(180deg, rgba(89,171,149,0.9248949579831933) 0%, rgba(87,123,166,1) 100%);
+    background: -webkit-linear-gradient(180deg, rgba(89,171,149,0.9248949579831933) 0%, rgba(87,123,166,1) 100%);
+    background: linear-gradient(180deg, rgba(89,171,149,0.9248949579831933) 0%, rgba(87,123,166,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#59ab95",endColorstr="#577ba6",GradientType=1);
+    outline: none;
+}

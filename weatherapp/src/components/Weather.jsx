@@ -1,11 +1,10 @@
-import React from 'react'
-import "../styles/Weather.css"
+import React from 'react';
+
 const Weather = () => {
   return (
     <div>
-      
     </div>
-  )
+  );
 }
 
-export default Weather
+export default Weather; 
